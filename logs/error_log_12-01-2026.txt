@@ -1,0 +1,26 @@
+
+
+Erro: Código: 42S02 Mensagem: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'handscale_base.bip_r_event_type' doesn't exist
+
+ Ocorrido em: 12-01-2026, 04:04:26
+ -----------------------------------------------------------------------------------
+
+Erro: Código: 42S02 Mensagem: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'handscale_base.bip_r_event_type' doesn't exist
+
+ Ocorrido em: 12-01-2026, 04:04:51
+ -----------------------------------------------------------------------------------
+
+Erro: Código: 42S02 Mensagem: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'handscale_base.bip_r_event_type' doesn't exist
+
+ Ocorrido em: 12-01-2026, 04:04:59
+ -----------------------------------------------------------------------------------
+
+Erro: Código: 42S02 Mensagem: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'handscale_base.bip_r_event_type' doesn't exist
+
+ Ocorrido em: 12-01-2026, 04:07:04
+ -----------------------------------------------------------------------------------
+
+Erro: Código: 0 Mensagem: Undefined constant "jsonToPojo"
+
+ Ocorrido em: 12-01-2026, 04:15:18
+ -----------------------------------------------------------------------------------

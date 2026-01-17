@@ -1,0 +1,11 @@
+{
+    "csv": "C:\\opt\\xampp\\htdocs\\handScale\\Nasajon\\ajax\/..\/input_csv\/output\/resultado_20260117_011439.csv",
+    "stats": {
+        "total_municipios": 10,
+        "total_ok": 0,
+        "total_nao_encontrado": 0,
+        "total_erro_api": 0,
+        "pop_total_ok": 0,
+        "medias_por_regiao": []
+    }
+}

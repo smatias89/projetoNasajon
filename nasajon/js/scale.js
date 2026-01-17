@@ -1,0 +1,177 @@
+// console.log('discipline...') 0807;
+
+var objDelete;
+
+$('#scaleID, #scaleFullName,#scaleFgAtv').keypress(function(event) {
+
+    if (event.key === "Enter") {
+        searchScale();	
+    }
+});
+
+$('#scaleFgAtv').change(function (e) { 
+    e.preventDefault();
+    console.log('change selecte... ');
+    $('.search-button').click();
+    
+});
+
+$('.search-button').click(function (e) { 
+    searchScale()
+    
+});
+$('.back-button').click(function (e) { 
+    location.href = 'index';
+    
+});
+$('.new-button').click(function (e) { 
+    location.href = 'scaleEdit';
+    
+});
+
+function searchScale() {
+    var objFilters = new Object();
+    objFilters.scaleID = $("#scaleID").val();
+    objFilters.shdesc = $("#scaleFullName").val();		
+    objFilters.fgAtv = $("#scaleFgAtv").val();		
+    
+    if (!$('#btnSearchAction').hasClass('disabled')) {				
+        $('#btnSearchAction').removeClass('btn-info');
+        $('#btnSearchAction').addClass('disabled btn-default');
+    }
+    
+    // console.log(objFilters);
+    tblScaleSearch.table().clear();
+        
+    getScaleByFilterTable(tblScaleSearch, objFilters, null, null);	
+}
+
+
+// console.log(arrayDate);
+tblScaleSearch = $('#scaleTable').DataTable({
+    columnDefs: [ {
+        orderable: false,
+        className: 'select-checkbox',
+        targets:   0,
+        data: null
+    }, 
+    { targets: [0, 1], visible: false } // hide column
+    // {
+	// 	orderable: false,
+	// 	targets:   4,
+	// 	render: function (data) {
+    //         // console.log(data);
+    //         var arrayDate = controlBaseYear()
+    //         // console.log(arrayDate);
+    //         return arrayDate[data-1]
+    //     }
+	// },
+    // {
+    // orderable: true,
+    // targets:   6,
+    // render: function (value) {
+    //                 if (value === null) return "";
+    //             return moment(value).format(TO_PATTERN_DATETIME);
+    //         }
+    // } 
+    ],
+    rowId: 'scaleID',
+    dom: 
+        "<'row'<'col-sm-2'l><'col-sm-3'B><'col-sm-1 text-center divDropdown btn-group dropdown'><'offset-sm-1 col-sm-2'><'col-sm-3'f>>" +
+        "<'row'<'col-sm-12'tr>>" +
+        "<'row'<'col-sm-5'i><'col-sm-7'p>>",       
+
+    buttons: [
+        /*'copy', 'csv', 'excel', 'pdf', 'print'*/
+        'copy',
+        {
+            extend: 'csvHtml5',
+            title: 'BIP_Export_Table'
+        },
+        {
+            extend: 'excelHtml5',
+            title: 'BIP_Export_Table'
+        }
+    ],
+    order: [[ 1, 'desc' ]],
+    iDisplayLength: 10,		
+    columns: [
+        { data: null, defaultContent: ''},			
+        { data: 'scaleID' /*,width:'70px'*/ },
+        { data: 'shdesc' },        
+        { data: 'fgAtv'/*,width:'28px'*/ }
+    ]
+});
+    
+
+if (!$("#leftMenuScale").hasClass("active")) {
+    $("#leftMenuScale").addClass("active");
+}
+
+$('#scaleTable tbody').on( 'click', 'tr', function () {
+    if ( $(this).hasClass('selected') ) {
+        $(this).removeClass('selected');
+    }
+    else {
+        tblScaleSearch.$('tr.selected').removeClass('selected');
+        $(this).addClass('selected');
+    };
+
+    if (tblScaleSearch.rows('.selected').any() /*&& $('#btnSearchAction').hasClass('disabled')*/) {			
+        $('#divSearchActionOptions').html(divSearchActionOptionsParm);	  
+    
+            let rowsData = tblScaleSearch.rows($("#" + tblScaleSearch.table().node().id + " tr.selected")).data();
+            objDelete = rowsData[0].shdesc;
+            $('.dropdown-item').click(function () { 
+                tableActions(tblScaleSearch, this);  
+            });
+           
+        $('#btnSearchAction').removeClass('disabled btn-default');
+        $('#btnSearchAction').addClass('btn-info');
+    } else if (!tblScaleSearch.rows('.selected').any() && !$('#btnSearchAction').hasClass('disabled')) {				
+        $('#btnSearchAction').removeClass('btn-info');
+        $('#btnSearchAction').addClass('disabled btn-default');
+    };
+} );
+
+$('#functionTable tbody').on( 'dblclick', 'tr', function () {
+    // console.log('double click');
+    tblScaleSearch.$('tr.selected').removeClass('selected');
+    $(this).addClass('selected');
+    $('#btnSearchAction').removeClass('disabled btn-default');
+    $('#btnSearchAction').addClass('btn-info');
+    $('#propertiesDiscipline').trigger("click");
+});
+
+
+/*  &#10247; vertical 3 dots */
+$('.divDropdown').html('<button class="btn btn-xs btn-block btn-default dropdown-toggle disabled" type="button" id="btnSearchAction" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">' +
+                'Opções&nbsp;' +
+                '</button>' +
+                '<div class="dropdown-menu text-xs" aria-labelledby="btnSearchAction" id="divSearchActionOptions">' +							 					  
+                '</div>');
+                            
+$('#modalLock').modal({ show: false});
+$('#modalUnlock').modal({ show: false});
+$('#modalUploadHistory').modal({ show: false});
+$('#modalShowModificationHistory').modal({ show: false});
+$('#modalDelete').hide();	
+
+$('#modalShowModificationHistory').on('shown.bs.modal', function (e) {
+    tblModificationHistory.columns.adjust().draw();
+});
+
+// var userIDParm = '<%=request.getParameter("userID")%>';
+    // console.log('User Id -> ' + $('#hidUserID').val());
+
+if ($('#hidDisciplineID').val() != null && $('#hidDisciplineID').val() != "" && $('#hidDisciplineID').val() != "null") {
+    $("#disciplineID").val($('#hidDisciplineID').val());		
+}
+
+$('.deleteConfirmation').click(function () {
+    deleteTask($('.search-button'),objDelete);		
+    
+});
+
+$('#scaleSearch').click();
+

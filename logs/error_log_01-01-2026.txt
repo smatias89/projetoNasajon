@@ -1,0 +1,101 @@
+
+
+[PDOException] Mensagem: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'saulo.engmatias@gmail.com1' for key 'EMAIL' | Arquivo: C:\opt\xampp\htdocs\handScale\handScaleBase\daos\UserDAO.php | Linha: 100
+
+ Ocorrido em: 01-01-2026, 06:55:58
+ -----------------------------------------------------------------------------------
+
+[PDOException] Mensagem: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'saulo.engmatias@gmail.com1' for key 'EMAIL' | Arquivo: C:\opt\xampp\htdocs\handScale\handScaleBase\daos\UserDAO.php | Linha: 100
+
+ Ocorrido em: 01-01-2026, 06:57:00
+ -----------------------------------------------------------------------------------
+
+[PDOException] Mensagem: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'saulo.engmatias@gmail.com1' for key 'EMAIL' | Arquivo: C:\opt\xampp\htdocs\handScale\handScaleBase\daos\UserDAO.php | Linha: 100
+
+ Ocorrido em: 01-01-2026, 06:57:26
+ -----------------------------------------------------------------------------------
+
+[PDOException] Mensagem: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'saulo.engmatias@gmail.com1' for key 'EMAIL' | Arquivo: C:\opt\xampp\htdocs\handScale\handScaleBase\daos\UserDAO.php | Linha: 100
+
+ Ocorrido em: 01-01-2026, 06:58:09
+ -----------------------------------------------------------------------------------
+
+[PDOException] Mensagem: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'saulo.engmatias@gmail.com1' for key 'EMAIL' | Arquivo: C:\opt\xampp\htdocs\handScale\handScaleBase\daos\UserDAO.php | Linha: 100
+
+ Ocorrido em: 01-01-2026, 06:58:17
+ -----------------------------------------------------------------------------------
+
+[PDOException] Mensagem: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'saulo.engmatias@gmail.com1' for key 'EMAIL' | Arquivo: C:\opt\xampp\htdocs\handScale\handScaleBase\daos\UserDAO.php | Linha: 100
+
+ Ocorrido em: 01-01-2026, 06:58:25
+ -----------------------------------------------------------------------------------
+
+[PDOException] Mensagem: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'saulo.engmatias@gmail.com1' for key 'EMAIL' | Arquivo: C:\opt\xampp\htdocs\handScale\handScaleBase\daos\UserDAO.php | Linha: 100
+
+ Ocorrido em: 01-01-2026, 06:59:11
+ -----------------------------------------------------------------------------------
+
+[PDOException] Mensagem: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'saulo.engmatias@gmail.com1' for key 'EMAIL' | Arquivo: C:\opt\xampp\htdocs\handScale\handScaleBase\daos\UserDAO.php | Linha: 100
+
+ Ocorrido em: 01-01-2026, 07:06:06
+ -----------------------------------------------------------------------------------
+
+[PDOException] Mensagem: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'saulo.engmatias@gmail.com1' for key 'EMAIL' | Arquivo: C:\opt\xampp\htdocs\handScale\handScaleBase\daos\UserDAO.php | Linha: 100
+
+ Ocorrido em: 01-01-2026, 07:06:12
+ -----------------------------------------------------------------------------------
+
+[PDOException] Mensagem: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'saulo.engmatias@gmail.com1' for key 'EMAIL' | Arquivo: C:\opt\xampp\htdocs\handScale\handScaleBase\daos\UserDAO.php | Linha: 100
+
+ Ocorrido em: 01-01-2026, 07:06:35
+ -----------------------------------------------------------------------------------
+
+[PDOException] Mensagem: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'saulo.engmatias@gmail.com1' for key 'EMAIL' | Arquivo: C:\opt\xampp\htdocs\handScale\handScaleBase\daos\UserDAO.php | Linha: 100
+
+ Ocorrido em: 01-01-2026, 07:07:59
+ -----------------------------------------------------------------------------------
+
+[PDOException] Mensagem: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'saulo.engmatias@gmail.com1' for key 'EMAIL' | Arquivo: C:\opt\xampp\htdocs\handScale\handScaleBase\daos\UserDAO.php | Linha: 100
+
+ Ocorrido em: 01-01-2026, 07:08:27
+ -----------------------------------------------------------------------------------
+
+[PDOException] Mensagem: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'saulo.engmatias@gmail.com1' for key 'EMAIL' | Arquivo: C:\opt\xampp\htdocs\handScale\handScaleBase\daos\UserDAO.php | Linha: 100
+
+ Ocorrido em: 01-01-2026, 07:10:40
+ -----------------------------------------------------------------------------------
+
+[PDOException] Mensagem: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'saulo.engmatias@gmail.com1' for key 'EMAIL' | Arquivo: C:\opt\xampp\htdocs\handScale\handScaleBase\daos\UserDAO.php | Linha: 100
+
+ Ocorrido em: 01-01-2026, 07:11:22
+ -----------------------------------------------------------------------------------
+
+[PDOException] Mensagem: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'saulo.engmatias@gmail.com1' for key 'EMAIL' | Arquivo: C:\opt\xampp\htdocs\handScale\handScaleBase\daos\UserDAO.php | Linha: 100
+
+ Ocorrido em: 01-01-2026, 07:16:06
+ -----------------------------------------------------------------------------------
+
+[PDOException] Mensagem: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'saulo.engmatias@gmail.com1' for key 'EMAIL' | Arquivo: C:\opt\xampp\htdocs\handScale\handScaleBase\daos\UserDAO.php | Linha: 100
+
+ Ocorrido em: 01-01-2026, 07:16:30
+ -----------------------------------------------------------------------------------
+
+[PDOException] Mensagem: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'saulo.engmatias@gmail.com1' for key 'EMAIL' | Arquivo: C:\opt\xampp\htdocs\handScale\handScaleBase\daos\UserDAO.php | Linha: 100
+
+ Ocorrido em: 01-01-2026, 07:16:36
+ -----------------------------------------------------------------------------------
+
+[Error] Mensagem: Call to undefined method User::setLstSchool() | Arquivo: C:\opt\xampp\htdocs\handScale\handScaleBase\daos\CheckUserDAO.php | Linha: 408
+
+ Ocorrido em: 01-01-2026, 07:35:27
+ -----------------------------------------------------------------------------------
+
+[Error] Mensagem: Class "ExternalConnection" not found | Arquivo: C:\opt\xampp\htdocs\handScale\handScaleBase\daos\CheckUserDAO.php | Linha: 67
+
+ Ocorrido em: 01-01-2026, 07:36:56
+ -----------------------------------------------------------------------------------
+
+[Error] Mensagem: Class "CheckUserAddressDAO" not found | Arquivo: C:\opt\xampp\htdocs\handScale\handScaleBase\daos\CheckUserDAO.php | Linha: 347
+
+ Ocorrido em: 01-01-2026, 07:41:15
+ -----------------------------------------------------------------------------------

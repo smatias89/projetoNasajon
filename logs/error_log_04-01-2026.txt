@@ -1,0 +1,81 @@
+
+
+Erro: Código: 0 Mensagem: Call to a member function getsetLstTask() on null
+
+ Ocorrido em: 04-01-2026, 06:47:08
+ -----------------------------------------------------------------------------------
+
+Erro: Código: 0 Mensagem: Undefined constant "STOP"
+
+ Ocorrido em: 04-01-2026, 06:48:14
+ -----------------------------------------------------------------------------------
+
+Erro: Código: 0 Mensagem: Call to a member function getsetLstTask() on null
+
+ Ocorrido em: 04-01-2026, 06:50:23
+ -----------------------------------------------------------------------------------
+
+Erro: Código: 0 Mensagem: Call to a member function getLstTask() on null
+
+ Ocorrido em: 04-01-2026, 06:52:02
+ -----------------------------------------------------------------------------------
+
+Erro: Código: 0 Mensagem: Call to a member function getLstTask() on null
+
+ Ocorrido em: 04-01-2026, 06:57:53
+ -----------------------------------------------------------------------------------
+
+Erro: Código: 0 Mensagem: Call to a member function getLstTask() on null
+
+ Ocorrido em: 04-01-2026, 06:58:51
+ -----------------------------------------------------------------------------------
+
+Erro: Código: 0 Mensagem: Call to a member function getLstTask() on null
+
+ Ocorrido em: 04-01-2026, 06:59:21
+ -----------------------------------------------------------------------------------
+
+Erro: Código: 0 Mensagem: Object of class User could not be converted to string
+
+ Ocorrido em: 04-01-2026, 07:00:16
+ -----------------------------------------------------------------------------------
+
+Erro: Código: 0 Mensagem: Call to a member function getUserID() on null
+
+ Ocorrido em: 04-01-2026, 07:01:14
+ -----------------------------------------------------------------------------------
+
+Erro: Código: 0 Mensagem: Call to a member function getUserID() on null
+
+ Ocorrido em: 04-01-2026, 07:02:03
+ -----------------------------------------------------------------------------------
+
+Erro: Código: 0 Mensagem: Call to a member function getUserID() on null
+
+ Ocorrido em: 04-01-2026, 07:03:32
+ -----------------------------------------------------------------------------------
+
+Erro: Código: 0 Mensagem: Call to a member function getUserID() on null
+
+ Ocorrido em: 04-01-2026, 07:04:32
+ -----------------------------------------------------------------------------------
+
+Erro: Código: 0 Mensagem: Call to a member function getUserID() on null
+
+ Ocorrido em: 04-01-2026, 07:05:27
+ -----------------------------------------------------------------------------------
+
+Erro: Código: 0 Mensagem: Call to undefined method stdClass::getUserID()
+
+ Ocorrido em: 04-01-2026, 07:11:35
+ -----------------------------------------------------------------------------------
+
+Erro: Código: 0 Mensagem: Call to a member function getModifiedDate() on null
+
+ Ocorrido em: 04-01-2026, 07:12:44
+ -----------------------------------------------------------------------------------
+
+Erro: Código: 0 Mensagem: Call to a member function getModifiedDate() on null
+
+ Ocorrido em: 04-01-2026, 07:16:56
+ -----------------------------------------------------------------------------------

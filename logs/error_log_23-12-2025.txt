@@ -1,0 +1,86 @@
+
+
+[Error] Undefined constant "ors"
+
+ Ocorrido em: 23-12-2025, 06:15:25
+ -----------------------------------------------------------------------------------
+
+[Error] Undefined constant "orseee"
+
+ Ocorrido em: 23-12-2025, 06:17:45
+ -----------------------------------------------------------------------------------
+
+[Error] Undefined constant "orseee"
+
+ Ocorrido em: 23-12-2025, 06:19:50
+ -----------------------------------------------------------------------------------
+
+[Error] Undefined constant "orseee"
+
+ Ocorrido em: 23-12-2025, 06:21:36
+ -----------------------------------------------------------------------------------
+
+[Error] Call to undefined method User::etModifiedDate()
+
+ Ocorrido em: 23-12-2025, 06:22:44
+ -----------------------------------------------------------------------------------
+
+[Error] Undefined constant "orseee"
+
+ Ocorrido em: 23-12-2025, 06:23:59
+ -----------------------------------------------------------------------------------
+
+[Error] Mensagem: Undefined constant "CONSTANTE" | Arquivo: C:\opt\xampp\htdocs\handScale\handScaleBase\daos\UserDAO.php | Linha: 164
+
+ Ocorrido em: 23-12-2025, 06:45:53
+ -----------------------------------------------------------------------------------
+
+[Error] Mensagem: Undefined constant "CONSTANTE" | Arquivo: C:\opt\xampp\htdocs\handScale\handScaleBase\daos\UserDAO.php | Linha: 164
+
+ Ocorrido em: 23-12-2025, 06:46:40
+ -----------------------------------------------------------------------------------
+
+[Error] Mensagem: Undefined constant "CONSTANTE" | Arquivo: C:\opt\xampp\htdocs\handScale\handScaleBase\daos\UserDAO.php | Linha: 164
+
+ Ocorrido em: 23-12-2025, 06:51:05
+ -----------------------------------------------------------------------------------
+
+[Error] Mensagem: Undefined constant "CONSTANTE" | Arquivo: C:\opt\xampp\htdocs\handScale\handScaleBase\daos\UserDAO.php | Linha: 164
+
+ Ocorrido em: 23-12-2025, 06:53:13
+ -----------------------------------------------------------------------------------
+
+[Error] Mensagem: Undefined constant "CONSTANTE" | Arquivo: C:\opt\xampp\htdocs\handScale\handScaleBase\daos\UserDAO.php | Linha: 164
+
+ Ocorrido em: 23-12-2025, 06:53:33
+ -----------------------------------------------------------------------------------
+
+[Error] Mensagem: Undefined constant "CONSTANTE" | Arquivo: C:\opt\xampp\htdocs\handScale\handScaleBase\daos\UserDAO.php | Linha: 164
+
+ Ocorrido em: 23-12-2025, 06:55:30
+ -----------------------------------------------------------------------------------
+
+[Error] Mensagem: Undefined constant "CONSTANTE" | Arquivo: C:\opt\xampp\htdocs\handScale\handScaleBase\daos\UserDAO.php | Linha: 164
+
+ Ocorrido em: 23-12-2025, 06:57:55
+ -----------------------------------------------------------------------------------
+
+[Error] Mensagem: Undefined constant "CONSTANTE" | Arquivo: C:\opt\xampp\htdocs\handScale\handScaleBase\daos\UserDAO.php | Linha: 164
+
+ Ocorrido em: 23-12-2025, 06:58:53
+ -----------------------------------------------------------------------------------
+
+[Error] Mensagem: Undefined constant "CONSTANTE" | Arquivo: C:\opt\xampp\htdocs\handScale\handScaleBase\daos\UserDAO.php | Linha: 164
+
+ Ocorrido em: 23-12-2025, 06:59:51
+ -----------------------------------------------------------------------------------
+
+[Error] Mensagem: Undefined constant "CONSTANTE" | Arquivo: C:\opt\xampp\htdocs\handScale\handScaleBase\daos\UserDAO.php | Linha: 164
+
+ Ocorrido em: 23-12-2025, 07:01:09
+ -----------------------------------------------------------------------------------
+
+[Error] Mensagem: Undefined constant "CONSTANTE" | Arquivo: C:\opt\xampp\htdocs\handScale\handScaleBase\daos\UserDAO.php | Linha: 164
+
+ Ocorrido em: 23-12-2025, 07:03:31
+ -----------------------------------------------------------------------------------

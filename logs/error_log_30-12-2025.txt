@@ -1,0 +1,121 @@
+
+
+Erro: Código: 42S02 Mensagem: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'handscale_base.bip_t_discipline' doesn't exist
+
+ Ocorrido em: 30-12-2025, 20:02:19
+ -----------------------------------------------------------------------------------
+
+Erro: Código: 42S02 Mensagem: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'handscale_base.bip_t_discipline' doesn't exist
+
+ Ocorrido em: 30-12-2025, 20:03:08
+ -----------------------------------------------------------------------------------
+
+Erro: Código: 42S02 Mensagem: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'handscale_base.bip_t_discipline' doesn't exist
+
+ Ocorrido em: 30-12-2025, 20:05:29
+ -----------------------------------------------------------------------------------
+
+Erro: Código: 42S02 Mensagem: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'handscale_base.bip_t_discipline' doesn't exist
+
+ Ocorrido em: 30-12-2025, 20:10:08
+ -----------------------------------------------------------------------------------
+
+Erro: Código: 42S02 Mensagem: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'handscale_base.bip_t_discipline' doesn't exist
+
+ Ocorrido em: 30-12-2025, 20:11:19
+ -----------------------------------------------------------------------------------
+
+Erro: Código: 42S02 Mensagem: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'handscale_base.bip_t_discipline' doesn't exist
+
+ Ocorrido em: 30-12-2025, 20:12:06
+ -----------------------------------------------------------------------------------
+
+Erro: Código: 42S02 Mensagem: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'handscale_base.bip_t_discipline' doesn't exist
+
+ Ocorrido em: 30-12-2025, 20:24:58
+ -----------------------------------------------------------------------------------
+
+Erro: Código: 42S02 Mensagem: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'handscale_base.bip_t_discipline' doesn't exist
+
+ Ocorrido em: 30-12-2025, 20:33:30
+ -----------------------------------------------------------------------------------
+
+Erro: Código: 42S02 Mensagem: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'handscale_base.bip_t_discipline' doesn't exist
+
+ Ocorrido em: 30-12-2025, 20:38:12
+ -----------------------------------------------------------------------------------
+
+Erro: Código: 42S22 Mensagem: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'a.BASE_YEAR_ID' in 'field list'
+
+ Ocorrido em: 30-12-2025, 20:47:45
+ -----------------------------------------------------------------------------------
+
+Erro: Código: 0 Mensagem: Class "Discipline" not found
+
+ Ocorrido em: 30-12-2025, 20:48:47
+ -----------------------------------------------------------------------------------
+
+Erro: Código: 42S02 Mensagem: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'handscale_base.bip_t_discipline' doesn't exist
+
+ Ocorrido em: 30-12-2025, 21:06:36
+ -----------------------------------------------------------------------------------
+
+Erro: Código: 42S02 Mensagem: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'handscale_base.bip_t_discipline' doesn't exist
+
+ Ocorrido em: 30-12-2025, 21:07:50
+ -----------------------------------------------------------------------------------
+
+Erro: Código: 42S02 Mensagem: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'handscale_base.bip_t_discipline' doesn't exist
+
+ Ocorrido em: 30-12-2025, 21:08:33
+ -----------------------------------------------------------------------------------
+
+Erro: Código: 0 Mensagem: Class "Discipline" not found
+
+ Ocorrido em: 30-12-2025, 21:14:20
+ -----------------------------------------------------------------------------------
+
+Erro: Código: HY093 Mensagem: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+
+ Ocorrido em: 30-12-2025, 21:17:02
+ -----------------------------------------------------------------------------------
+
+Erro: Código: 21S01 Mensagem: SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1
+
+ Ocorrido em: 30-12-2025, 21:17:35
+ -----------------------------------------------------------------------------------
+
+Erro: Código: 0 Mensagem: Call to a member function setTaskID() on null
+
+ Ocorrido em: 30-12-2025, 21:18:03
+ -----------------------------------------------------------------------------------
+
+Erro: Código: 42000 Mensagem: SQLSTATE[42000]: Syntax error or access violation: 1142 DELETE command denied to user 'handScale_admin'@'localhost' for table `handscale_base`.`hs_t_task`
+
+ Ocorrido em: 30-12-2025, 21:41:46
+ -----------------------------------------------------------------------------------
+
+Erro: Código: 42S02 Mensagem: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'handscale_base.bip_t_discipline' doesn't exist
+
+ Ocorrido em: 30-12-2025, 21:55:32
+ -----------------------------------------------------------------------------------
+
+Erro: Código: 42S02 Mensagem: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'handscale_base.bip_t_discipline' doesn't exist
+
+ Ocorrido em: 30-12-2025, 22:38:27
+ -----------------------------------------------------------------------------------
+
+Erro: Código: 42S02 Mensagem: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'handscale_base.bip_t_discipline' doesn't exist
+
+ Ocorrido em: 30-12-2025, 22:39:08
+ -----------------------------------------------------------------------------------
+
+Erro: Código: 42S02 Mensagem: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'handscale_base.bip_t_discipline' doesn't exist
+
+ Ocorrido em: 30-12-2025, 22:41:15
+ -----------------------------------------------------------------------------------
+
+Erro: Código: 0 Mensagem: Object of class Task could not be converted to string
+
+ Ocorrido em: 30-12-2025, 22:58:13
+ -----------------------------------------------------------------------------------

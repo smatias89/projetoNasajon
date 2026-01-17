@@ -1,0 +1,16 @@
+
+
+[Error] Mensagem: Class "ExternalConnection" not found | Arquivo: C:\opt\xampp\htdocs\handScale\handScaleBase\daos\CheckUserDAO.php | Linha: 113
+
+ Ocorrido em: 02-01-2026, 00:05:38
+ -----------------------------------------------------------------------------------
+
+[Error] Mensagem: Class "ExternalConnection" not found | Arquivo: C:\opt\xampp\htdocs\handScale\handScaleBase\daos\CheckUserDAO.php | Linha: 113
+
+ Ocorrido em: 02-01-2026, 00:05:44
+ -----------------------------------------------------------------------------------
+
+[PDOException] Mensagem: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'saulo.engmatias@gmail.com2' for key 'EMAIL' | Arquivo: C:\opt\xampp\htdocs\handScale\handScaleBase\daos\UserDAO.php | Linha: 95
+
+ Ocorrido em: 02-01-2026, 00:06:08
+ -----------------------------------------------------------------------------------

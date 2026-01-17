@@ -1,0 +1,56 @@
+
+
+Erro: Código: 42S02 Mensagem: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'handscale_base.bip_t_user' doesn't exist
+
+ Ocorrido em: 19-12-2025, 16:09:18
+ -----------------------------------------------------------------------------------
+
+Erro: Código: 42S02 Mensagem: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'handscale_base.bip_t_user' doesn't exist
+
+ Ocorrido em: 19-12-2025, 16:09:41
+ -----------------------------------------------------------------------------------
+
+Erro: Código: 42S02 Mensagem: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'handscale_base.bip_t_user' doesn't exist
+
+ Ocorrido em: 19-12-2025, 23:42:09
+ -----------------------------------------------------------------------------------
+
+Erro: Código: 42S02 Mensagem: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'handscale_base.bip_t_user' doesn't exist
+
+ Ocorrido em: 19-12-2025, 23:45:55
+ -----------------------------------------------------------------------------------
+
+Erro: Código: 42S02 Mensagem: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'handscale_base.bip_t_user' doesn't exist
+
+ Ocorrido em: 19-12-2025, 23:45:58
+ -----------------------------------------------------------------------------------
+
+Erro: Código: 42S02 Mensagem: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'handscale_base.bip_t_user' doesn't exist
+
+ Ocorrido em: 19-12-2025, 23:46:11
+ -----------------------------------------------------------------------------------
+
+Erro: Código: 42S02 Mensagem: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'handscale_base.bip_t_user' doesn't exist
+
+ Ocorrido em: 19-12-2025, 23:46:16
+ -----------------------------------------------------------------------------------
+
+Erro: Código: 42S02 Mensagem: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'handscale_base.bip_t_user' doesn't exist
+
+ Ocorrido em: 19-12-2025, 23:46:29
+ -----------------------------------------------------------------------------------
+
+Erro: Código: 42S02 Mensagem: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'handscale_base.bip_t_user' doesn't exist
+
+ Ocorrido em: 19-12-2025, 23:46:44
+ -----------------------------------------------------------------------------------
+
+Erro: Código: 42S02 Mensagem: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'handscale_base.bip_t_user' doesn't exist
+
+ Ocorrido em: 19-12-2025, 23:46:51
+ -----------------------------------------------------------------------------------
+
+Erro: Código: 42S02 Mensagem: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'handscale_base.bip_t_user' doesn't exist
+
+ Ocorrido em: 19-12-2025, 23:48:40
+ -----------------------------------------------------------------------------------

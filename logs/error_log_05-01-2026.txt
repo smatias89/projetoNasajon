@@ -1,0 +1,6 @@
+
+
+Erro: Código: 0 Mensagem: Call to undefined method ListMusic::seLink()
+
+ Ocorrido em: 05-01-2026, 00:55:43
+ -----------------------------------------------------------------------------------

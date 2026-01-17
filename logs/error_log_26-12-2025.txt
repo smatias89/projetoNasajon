@@ -1,0 +1,76 @@
+
+
+[Error] Mensagem: Undefined constant "CONSTANTE" | Arquivo: C:\opt\xampp\htdocs\handScale\handScaleBase\daos\UserDAO.php | Linha: 181
+
+ Ocorrido em: 26-12-2025, 17:29:26
+ -----------------------------------------------------------------------------------
+
+[Error] Mensagem: Undefined constant "CONSTANTE" | Arquivo: C:\opt\xampp\htdocs\handScale\handScaleBase\daos\UserDAO.php | Linha: 181
+
+ Ocorrido em: 26-12-2025, 17:29:43
+ -----------------------------------------------------------------------------------
+
+[Error] Mensagem: Undefined constant "CONSTANTE" | Arquivo: C:\opt\xampp\htdocs\handScale\handScaleBase\daos\UserDAO.php | Linha: 181
+
+ Ocorrido em: 26-12-2025, 17:30:47
+ -----------------------------------------------------------------------------------
+
+[Error] Mensagem: Undefined constant "CONSTANTE" | Arquivo: C:\opt\xampp\htdocs\handScale\handScaleBase\daos\UserDAO.php | Linha: 181
+
+ Ocorrido em: 26-12-2025, 17:31:36
+ -----------------------------------------------------------------------------------
+
+[PDOException] Mensagem: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'saulo.engmatias@gmail.com' for key 'EMAIL' | Arquivo: C:\opt\xampp\htdocs\handScale\handScaleBase\daos\UserDAO.php | Linha: 102
+
+ Ocorrido em: 26-12-2025, 17:42:06
+ -----------------------------------------------------------------------------------
+
+[PDOException] Mensagem: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'saulo.engmatias@gmail.com' for key 'EMAIL' | Arquivo: C:\opt\xampp\htdocs\handScale\handScaleBase\daos\UserDAO.php | Linha: 101
+
+ Ocorrido em: 26-12-2025, 17:47:37
+ -----------------------------------------------------------------------------------
+
+[PDOException] Mensagem: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'saulo.engmatias@gmail.com5' for key 'EMAIL' | Arquivo: C:\opt\xampp\htdocs\handScale\handScaleBase\daos\UserDAO.php | Linha: 101
+
+ Ocorrido em: 26-12-2025, 18:03:46
+ -----------------------------------------------------------------------------------
+
+[PDOException] Mensagem: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'saulo.engmatias@gmail.com5' for key 'EMAIL' | Arquivo: C:\opt\xampp\htdocs\handScale\handScaleBase\daos\UserDAO.php | Linha: 101
+
+ Ocorrido em: 26-12-2025, 18:04:33
+ -----------------------------------------------------------------------------------
+
+[PDOException] Mensagem: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'saulo.engmatias@gmail.com5' for key 'EMAIL' | Arquivo: C:\opt\xampp\htdocs\handScale\handScaleBase\daos\UserDAO.php | Linha: 101
+
+ Ocorrido em: 26-12-2025, 18:04:44
+ -----------------------------------------------------------------------------------
+
+[PDOException] Mensagem: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'saulo.engmatias@gmail.com5' for key 'EMAIL' | Arquivo: C:\opt\xampp\htdocs\handScale\handScaleBase\daos\UserDAO.php | Linha: 101
+
+ Ocorrido em: 26-12-2025, 18:05:34
+ -----------------------------------------------------------------------------------
+
+[PDOException] Mensagem: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'saulo.engmatias@gmail.com5' for key 'EMAIL' | Arquivo: C:\opt\xampp\htdocs\handScale\handScaleBase\daos\UserDAO.php | Linha: 101
+
+ Ocorrido em: 26-12-2025, 18:06:24
+ -----------------------------------------------------------------------------------
+
+[PDOException] Mensagem: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'saulo.engmatias@gmail.com5' for key 'EMAIL' | Arquivo: C:\opt\xampp\htdocs\handScale\handScaleBase\daos\UserDAO.php | Linha: 101
+
+ Ocorrido em: 26-12-2025, 18:07:05
+ -----------------------------------------------------------------------------------
+
+[PDOException] Mensagem: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'saulo.engmatias@gmail.com5' for key 'EMAIL' | Arquivo: C:\opt\xampp\htdocs\handScale\handScaleBase\daos\UserDAO.php | Linha: 101
+
+ Ocorrido em: 26-12-2025, 18:07:28
+ -----------------------------------------------------------------------------------
+
+[PDOException] Mensagem: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'saulo.engmatias@gmail.com5' for key 'EMAIL' | Arquivo: C:\opt\xampp\htdocs\handScale\handScaleBase\daos\UserDAO.php | Linha: 101
+
+ Ocorrido em: 26-12-2025, 18:08:34
+ -----------------------------------------------------------------------------------
+
+[PDOException] Mensagem: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'saulo.engmatias@gmail.com5' for key 'EMAIL' | Arquivo: C:\opt\xampp\htdocs\handScale\handScaleBase\daos\UserDAO.php | Linha: 101
+
+ Ocorrido em: 26-12-2025, 18:09:12
+ -----------------------------------------------------------------------------------

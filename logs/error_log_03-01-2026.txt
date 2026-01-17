@@ -1,0 +1,11 @@
+
+
+Erro: Código: 0 Mensagem: Call to undefined method Scale::setDate()
+
+ Ocorrido em: 03-01-2026, 06:55:27
+ -----------------------------------------------------------------------------------
+
+Erro: Código: 0 Mensagem: Call to undefined method Scale::setLstScaleTable()
+
+ Ocorrido em: 03-01-2026, 07:15:11
+ -----------------------------------------------------------------------------------

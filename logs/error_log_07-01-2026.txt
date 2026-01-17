@@ -1,0 +1,24 @@
+
+
+Erro: Código: 2002 Mensagem: SQLSTATE[HY000] [2002] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente
+
+ Ocorrido em: 07-01-2026, 15:12:08
+ -----------------------------------------------------------------------------------
+
+Erro: Código: 0 Mensagem: Class "Task" not found
+
+ Ocorrido em: 07-01-2026, 15:12:48
+ -----------------------------------------------------------------------------------
+
+Erro: Código: 42000 Mensagem: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '.SINGER, 
+                        a.SHDESC, 
+                        a.LINK,
+...' at line 3
+
+ Ocorrido em: 07-01-2026, 15:38:40
+ -----------------------------------------------------------------------------------
+
+Erro: Código: 0 Mensagem: Call to undefined method ListMusic::getSingerID()
+
+ Ocorrido em: 07-01-2026, 15:39:29
+ -----------------------------------------------------------------------------------

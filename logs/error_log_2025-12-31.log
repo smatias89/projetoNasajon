@@ -1,0 +1,40 @@
+
+[2025-12-31 21:11:11]
+Usuário: admin@hs
+Erro: PDOException
+Mensagem: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+Arquivo: C:\opt\xampp\htdocs\handScale\handScaleBase\daos\ScaleTypeDAO.php
+Linha: 274
+--------------------------------------------------------------------------------
+
+[2025-12-31 21:12:40]
+Usuário: admin@hs
+Erro: PDOException
+Mensagem: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+Arquivo: C:\opt\xampp\htdocs\handScale\handScaleBase\daos\ScaleTypeDAO.php
+Linha: 274
+--------------------------------------------------------------------------------
+
+[2025-12-31 21:17:49]
+Usuário: guest
+Erro: PDOException
+Mensagem: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+Arquivo: C:\opt\xampp\htdocs\handScale\handScaleBase\daos\ScaleTypeDAO.php
+Linha: 274
+--------------------------------------------------------------------------------
+
+[2025-12-31 21:18:18]
+Usuário: guest
+Erro: PDOException
+Mensagem: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+Arquivo: C:\opt\xampp\htdocs\handScale\handScaleBase\daos\ScaleTypeDAO.php
+Linha: 274
+--------------------------------------------------------------------------------
+
+[2025-12-31 21:18:59]
+Usuário: guest
+Erro: PDOException
+Mensagem: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+Arquivo: C:\opt\xampp\htdocs\handScale\handScaleBase\daos\ScaleTypeDAO.php
+Linha: 274
+--------------------------------------------------------------------------------
